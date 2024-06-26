@@ -37,11 +37,13 @@
 # Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0131-palindrome-partitioning) |
 # Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0089-gray-code) |
 # Depth-First Search
 |  |
@@ -55,3 +57,7 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0131-palindrome-partitioning) |
+# Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0078-subsets) |
