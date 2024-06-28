@@ -66,3 +66,18 @@
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0062-unique-paths) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0062-unique-paths) |
+<!---LeetCode Topics End-->
