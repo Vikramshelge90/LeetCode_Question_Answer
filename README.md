@@ -76,8 +76,17 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0062-unique-paths) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0062-unique-paths) |
+## Array
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
