@@ -72,6 +72,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0392-is-subsequence) |
 ## String
