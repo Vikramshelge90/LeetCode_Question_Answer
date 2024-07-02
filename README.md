@@ -76,6 +76,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0392-is-subsequence) |
@@ -86,11 +87,13 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Two Pointers
 |  |
