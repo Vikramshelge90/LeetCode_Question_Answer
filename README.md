@@ -76,6 +76,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -87,12 +88,14 @@
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Two Pointers
