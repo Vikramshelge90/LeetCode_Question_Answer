@@ -91,6 +91,7 @@
 | [0045-jump-game-ii](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
@@ -109,4 +110,20 @@
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0392-is-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
