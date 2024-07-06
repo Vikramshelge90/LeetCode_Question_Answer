@@ -93,6 +93,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0209-minimum-size-subarray-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -126,4 +127,16 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
