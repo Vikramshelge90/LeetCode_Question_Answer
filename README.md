@@ -94,6 +94,7 @@
 | [0169-majority-element](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0209-minimum-size-subarray-sum) |
+| [0274-h-index](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0274-h-index) |
 ## Greedy
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0274-h-index) |
 ## Counting
 |  |
 | ------- |
@@ -142,4 +144,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0209-minimum-size-subarray-sum) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
