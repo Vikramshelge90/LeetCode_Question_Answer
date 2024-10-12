@@ -89,6 +89,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -139,6 +140,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vikramshelge90/LeetCode_Question_Answer/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
